@@ -1,0 +1,6 @@
+*.bck
+*.bak
+*.kicad_pcb-bak
+fp-info-cache
+ibom.html
+*/plot
